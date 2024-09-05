@@ -1,6 +1,7 @@
 <p align="center">
   <samp>
-    Howdy ♡!, I am Bumbim, a nobody. Previously, I worked as a Product Engineer. 
+    Howdy ♡!, I am Bumbim, former a Product Engineer,
+    <br>Research & development Engineer currently.
     <br>Now, I aspire to be a great BackEnd Engineer.
   </samp>
 </p>
