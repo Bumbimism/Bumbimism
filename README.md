@@ -30,7 +30,7 @@
 <br>.</br>
 <br><i> Shall we listen to music together? </i></br>
 </br>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31bt2rzb3plsjhjpdomgs2w52er4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31bt2rzb3plsjhjpdomgs2w52er4&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bt2rzb3plsjhjpdomgs2w52er4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31bt2rzb3plsjhjpdomgs2w52er4&redirect=true)
 
 <br> | <i>"Hope you have a nice day"</i></br>
 <!--
