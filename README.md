@@ -2,7 +2,6 @@
   <samp>
     Howdy ♡!, I am Bumbim, former a Product Engineer,
     <br>Research & development Engineer currently.
-    <br>Now, I aspire to be a great BackEnd Engineer.
   </samp>
 </p>
 <p align="center">
